@@ -120,7 +120,7 @@ function author_info_generate($content)
 		
 		$info .= '<div class="clear"></div>';
 		
-		$info .= '</div>';
+		$info .= '</div><br />';
 		
 		$content .= $info;
 	
